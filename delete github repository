@@ -1,0 +1,9 @@
+***************************************************
+#Steps to delete repository from github account
+***************************************************
+
+1. Click on the concerned repository name
+2. Go to Settings tab
+3. Click on "Delete this repository" option from "Danger Zone" section.
+4. It'll open a pop-up that asks for the name of the repository to be deleted for confirmation. 
+   Enter the name and click on "I understand the consequences, delete this repository".
